@@ -1,0 +1,8 @@
+﻿ID	Race	Grades	Sex	Name	Desc	BeginYear	Perception	Physique	Charisma	Intelligence	Luck	Fight	Qi	SocialContact	Medicine	Cooking	Building	Farming	Mining	Art	Manual	DouFa	DanQi	Fabao	FightSkill	Barrier	F1	F2	F3	F4	F5	F6
+ID	种族	阶段 0童年 1成年 2重大事件 	性别 0均可 1男 2女	名字	描述	触发开始年份	感知	体质	魅力	悟性	运气	战斗	气感	社交 （所有技能等级后面可以附加,X。X为热爱程度 1为热爱 2为痴迷）	医术	厨艺	建筑	农事	采掘	艺术	制造	斗法	丹器	御物	术法	护体	特性1	特性2	特性3	特性4	特性5	特性6
+300001	Human	0	0	异品	此虫混身皆败相，万中无一真荒唐。这般丑陋休轻弃，八败俱全是虫王。	-1	4	4	4	8	4	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2				Strong					
+300002	Human	1	0	促织王	[NAME]是一名凶残的蛐蛐，每次促织都会置对手于死地。嘴上的无数血腥让[ITS]内心如铁石一般。	-1						5															Numbness	Masculinity				
+400001	Human	0	0	相枢化身	相枢化身十分凶恶，没有个百年道行完全不是他们的对手，分别盘踞在九剑冢。	-1	10	10	10	10	10	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2	5,2						LunHui_XiangShu					
+400002	Human	1	0	溶尘隐	[NAME]掌握着溶尘化玉。	-1																9,2	9,2	9,2	9,2	9,2	Numbness					
+400003	Human	1	0	鬼神霞	[NAME]掌握着方天赦令。	-1																9,2	9,2	9,2	9,2	9,2	Numbness					
+400004	Human	1	0	凤凰茧	[NAME]掌握着七字五彩。	-1																9,2	9,2	9,2	9,2	9,2	Numbness					

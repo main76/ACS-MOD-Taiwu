@@ -1,0 +1,330 @@
+﻿<Esoteriacs><List>
+
+	<!--内功-->
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Nei10">
+		<DisplayName>燔石锤锻篇·正</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>铸剑山庄的真传入门内功功法。易于修炼效果中庸。</Desc>
+		<GLevel>Qi</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高战斗技能\n从根本上提高灵气最大值[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Nei10</Modifier>	
+	</Esoteriac>
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Nei11">
+		<DisplayName>燔石锤锻篇·逆</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>铸剑山庄的手抄入门内功功法。逆练功法造成经脉紊乱，若无天人造化，成仙无望。</Desc>
+		<GLevel>Qi</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]大幅提高术法伤害\n降低灵气恢复速度\n降低心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Nei11</Modifier>	
+	</Esoteriac>
+
+    <Esoteriac Name="ZhuJian_Gong_Esoteriac_Nei20">
+		<DisplayName>彰施乃服篇·正</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>铸剑山庄的真传中阶内功功法。稳步提升总和战斗能力。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]提高战斗技能\n提高战斗命中[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Nei20</Modifier>	
+	</Esoteriac>
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Nei21">
+		<DisplayName>彰施乃服篇·逆</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>5</Difficulty>
+		<Desc>铸剑山庄的手抄中阶内功功法。逆练功法造成经脉紊乱，若无天人造化，成仙无望。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]降低秘术灵气消耗\n降低秘术冷却时间\n降低灵气恢复速度\n降低心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Nei21</Modifier>	
+	</Esoteriac>
+
+    <Esoteriac Name="ZhuJian_Gong_Esoteriac_Nei30">
+		<DisplayName>千锤百炼篇·正</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>6</Difficulty>
+		<Desc>铸剑山庄的真传高阶内功功法。极大增强悟性与战斗能力，是修习其他功法的必需内功心法。</Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]大幅提高战斗技能\n大幅提高悟性[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Nei30</Modifier>	
+	</Esoteriac>
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Nei31">
+		<DisplayName>千锤百炼篇·逆</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>7</Difficulty>
+		<Desc>铸剑山庄的手抄高阶内功功法。逆练功法造成经脉紊乱，若无天人造化，成仙无望。</Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]提高修炼速度\n大幅提高领悟悟性概率\n大幅提高战斗命中\n降低秘术冷却时间\n降低灵气恢复速度\n降低心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Nei1</Modifier>	
+	</Esoteriac>
+
+
+    <!--轻功-->
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Qing1">
+		<DisplayName>驭车篇</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>铸剑山庄的基础轻功功法。提高移动速度与闪避概率。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高移动速度\n提高战斗闪避[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Qing1</Modifier>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Qing2">
+		<DisplayName>八方诸式</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>5</Difficulty>
+		<Desc>铸剑山庄的上乘轻功功法。提高移动速度与拆招卸力。</Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>None</Element>
+		<Type>Barrier</Type>
+		<EffectDesc>[size=10][color=#D06508]提高移动速度\n提高法宝击退距离[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Qing2</Modifier>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Qing3">
+		<DisplayName>乘龙术</DisplayName>
+		<Icon>res/Sprs/ui/icon_jichu</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>5</Difficulty>
+		<Desc>铸剑山庄的上乘轻功功法。提高移动速度与守御效率。</Desc>
+		<GLevel>God</GLevel>
+		<Element>Huo</Element>
+		<Type>Barrier</Type>
+		<EffectDesc>[size=10][color=#D06508]大幅提高移动速度\n提高灵气护盾效果[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Qing3</Modifier>
+	</Esoteriac>
+
+
+    <!--绝技-->
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jue1">
+		<DisplayName>七手八脚功</DisplayName>
+		<Icon>res/Sprs/ui/icon_zhandoufashu</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>铸剑山庄的基础绝技功法。提高攻击速度。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>None</Element>
+		<Type>Skill</Type>
+		<EffectDesc>[size=10][color=#D06508]缩短法宝攻击间隔[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Jue1</Modifier>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jue2">
+		<DisplayName>天兵披甲术</DisplayName>
+		<Icon>res/Sprs/ui/icon_zhandoufashu</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>5</Difficulty>
+		<Desc>铸剑山庄的上乘御守绝技功法。大幅提高守御效率。</Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>Huo</Element>
+		<Type>Barrier</Type>
+		<EffectDesc>[size=10][color=#D06508]提高灵气护盾效果[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Jue2</Modifier>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jue3">
+		<DisplayName>玲珑九窍</DisplayName>
+		<Icon>res/Sprs/ui/icon_zhandoufashu</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>8</Difficulty>
+		<Desc>铸剑山庄的上乘绝技功法。大幅提高灵气上限与获取。修炼需要修行者有过人的悟性。</Desc>
+		<GLevel>God</GLevel>
+		<Element>None</Element>
+		<Type>Skill</Type>
+		<EffectDesc>[size=10][color=#D06508]大幅提高灵气上限\n大幅提高灵气恢复[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Jue3</Modifier>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jue4">
+		<DisplayName>天铸玄铁册</DisplayName>
+		<Icon>res/Sprs/ui/icon_zhandoufashu</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>8</Difficulty>
+		<Desc>铸剑山庄的顶级绝技功法。全面提高法宝能力。修炼需要修行者有天人的巧匠技艺。</Desc>
+		<GLevel>God</GLevel>
+		<Element>Huo</Element>
+		<Type>Refining</Type>
+		<EffectDesc>[size=10][color=#D06508]提高法宝威力\n提高法宝灵气恢复速度\n提高法宝灵气值\n提高法宝速度\n提高法宝转向速度\n提高法宝拖尾长度[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Jue4</Modifier>
+	</Esoteriac>
+
+
+    <!--剑法-->
+    <Esoteriac Name="ZhuJian_Gong_Esoteriac_Sword1">
+		<DisplayName>十二路鱼肠刺剑</DisplayName>
+		<Icon>res/Sprs/ui/icon_yujian</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>十二路鱼肠刺剑迅疾勇绝，小巧轻快，虽然剑招尽是直刺，但出剑方位曲若鱼肠，变化极快，且可贴身而发，尤其凶险。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>None</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]提高法宝速度[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Sword1</Modifier>
+        <Skills>
+			<li>DamageSkill_ZhuJian_Gong_1</li>
+		</Skills>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Sword2">
+		<DisplayName>千钧巨阙剑</DisplayName>
+		<Icon>res/Sprs/ui/icon_yujian</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>8</Difficulty>
+		<Desc>巨阙千钧剑仅正反竖劈、左右横扫四式，虽然运剑无比笨拙，但力发千钧，无人能挡。然而寻常铁剑绝难承受如此强力，故而此剑法之神威极难尽显。 </Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]巨幅提高法宝威力[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Sword2</Modifier>
+        <Skills>
+			<li>DamageSkill_ZhuJian_Gong_2</li>
+		</Skills>
+	</Esoteriac>
+
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Sword3">
+		<DisplayName>湛卢剑法</DisplayName>
+		<Icon>res/Sprs/ui/icon_yujian</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>12</Difficulty>
+		<Desc>湛卢剑法由铸剑祖师欧冶子所传，乃铸剑山庄之镇山至宝。此剑法穷极剑之体用，洞达剑之性灵，行剑则剑喜自鸣，杀敌则剑怒自威。</Desc>
+		<GLevel>God</GLevel>
+		<Element>Huo</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]巨幅提高法宝威力\n巨幅提高法宝转向速度[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Sword3</Modifier>
+        <Skills>
+			<li>DamageSkill_ZhuJian_Gong_3</li>
+		</Skills>
+	</Esoteriac>
+
+
+    <!--技艺-->	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Mu1">
+		<DisplayName>木工考</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<Desc>太吾绘卷中的下·九品制木技艺。即时是三岁孩童也能理解其中技巧。</Desc>
+		<GLevel>Qi</GLevel>
+		<Element>Mu</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_1</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Mu2">
+		<DisplayName>舟车枢要</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>2</Difficulty>
+		<Desc>太吾绘卷中的上·七阶制木技艺。如没有足够的技艺，恐无法参透。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>Mu</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_1</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Mu3">
+		<DisplayName>竹鹊志</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>太吾绘卷中的秘·五阶制木技艺。如没有足够的技艺，恐无法参透。</Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>Mu</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_1</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Mu4">
+		<DisplayName>大匠传</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>2</StarLevel>
+		<Difficulty>4</Difficulty>
+		<Desc>太吾绘卷中的超·三阶制木技艺。如没有足够的技艺与过人的悟性，恐无法参透。</Desc>
+		<GLevel>God</GLevel>
+		<Element>Mu</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]提高巧匠\n大幅提高心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_1</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jin1">
+		<DisplayName>鼎书</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<Desc>太吾绘卷中的下·九品锻造技艺。即时是三岁孩童也能理解其中技巧。</Desc>
+		<GLevel>Qi</GLevel>
+		<Element>Jin</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高根骨[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_2</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jin2">
+		<DisplayName>古今刀剑录</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>2</Difficulty>
+		<Desc>太吾绘卷中的上·七阶锻造技艺。如没有足够的技艺，恐无法参透。</Desc>
+		<GLevel>Dan1</GLevel>
+		<Element>Jin</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高根骨[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_2</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jin3">
+		<DisplayName>水经注</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>3</Difficulty>
+		<Desc>太吾绘卷中的秘·五阶锻造技艺。如没有足够的技艺，恐无法参透。</Desc>
+		<GLevel>Dan2</GLevel>
+		<Element>Jin</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高根骨[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_2</Modifier>	
+	</Esoteriac>
+	
+	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jin4">
+		<DisplayName>考工记</DisplayName>
+		<Icon>res/Sprs/ui/icon_liandan</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>4</Difficulty>
+		<Desc>太吾绘卷中的超·三阶锻造技艺。如没有足够的技艺与过人的悟性，恐无法参透。</Desc>
+		<GLevel>God</GLevel>
+		<Element>Jin</Element>
+		<Type>None</Type>
+		<EffectDesc>[size=10][color=#D06508]提高巧匠\n大幅提高根骨[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_3</Modifier>	
+	</Esoteriac>
+	
+</List></Esoteriacs>

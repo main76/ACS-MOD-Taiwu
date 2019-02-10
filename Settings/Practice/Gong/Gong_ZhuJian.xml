@@ -1,0 +1,114 @@
+﻿<Gongs><List>
+	<Gong Name="Gong_ZhuJian">   <!--铸剑山庄-->  
+		<DisplayName>太吾铸剑传承</DisplayName>
+		<Desc>相传是铸剑祖师欧冶子所创建，铸剑山庄源远流长，天下间的神兵利器大多出于此，深受武林中人仰慕。 </Desc>
+		<SelectDesc>铸剑山庄武学以兵器优劣为根基，功法弱于内功修炼，巧匠等级极大影响突破成功率。是否要选择修习此功法？</SelectDesc>
+		<FiveBaseNeed>5,7,-1,5,-1</FiveBaseNeed>
+		<SkillSetName></SkillSetName>
+		<ElementKind>Huo</ElementKind>
+		<Stages>
+			<Stage Name="Stage1" Level="3">
+				<DisplayName>初出茅庐</DisplayName>
+				<Desc></Desc>
+				<Value>1600</Value>
+				<Necks>
+					<Neck Location="0.2" Kind="Work">
+						<DisplayName>不堪一击</DisplayName>
+						<Desc>[color=#D06508]重回外道生活，磨练巧匠技艺。[/color]</Desc>
+					</Neck>
+					<Neck Location="0.6" Kind="Chance">
+						<DisplayName>初学乍练</DisplayName>
+						<Desc>[color=#D06508]此瓶颈巧匠越低，越难突破。[/color]</Desc>
+						<CostTime>300</CostTime>
+						<SuccessChange>Manual_1_5_25</SuccessChange>
+						<FailedChangeAdd>Manual_1_5_25</FailedChangeAdd>
+					</Neck>
+					<Neck Location="1" Kind="Chance">
+						<DisplayName>初窥门径</DisplayName>
+						<Desc></Desc>
+						<CostTime>200</CostTime>
+						<SuccessChange>1</SuccessChange>
+						<AddModifier>Gong_Qi</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+			
+			<Stage Name="Stage2" Level="6">
+				<DisplayName>青出於蓝</DisplayName>
+				<Desc></Desc>
+				<Value>6400</Value>
+				<Necks>
+					<Neck Location="0.2" Kind="Chance">
+						<DisplayName>平淡无奇</DisplayName>
+						<Desc>[color=#D06508]此瓶颈巧匠越低，越难突破。[/color]</Desc>
+						<CostTime>300</CostTime>
+						<SuccessChange>Manual_1_5_25</SuccessChange>
+						<FailedChangeAdd>Manual_1_5_25</FailedChangeAdd>
+					</Neck>
+					<Neck Location="0.6" Kind="Chance">
+						<DisplayName>略有小成</DisplayName>
+						<Desc>[color=#D06508]此瓶颈巧匠越低，越难突破。[/color]</Desc>
+						<CostTime>300</CostTime>
+						<SuccessChange>Manual_1_5_25</SuccessChange>
+						<FailedChangeAdd>Manual_1_5_25</FailedChangeAdd>
+					</Neck>
+					<Neck Location="1" Kind="Gold">
+						<DisplayName>鹤立鸡群</DisplayName>
+						<Desc></Desc>
+						<AddModifier>Gong_Gold</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>	
+			
+			<Stage Name="Stage3" Level="9">
+				<DisplayName>神乎其技</DisplayName>
+				<Desc></Desc>
+				<Value>256000</Value>
+				<Necks>
+					<Neck Location="0.2" Kind="Thunder">
+						<DisplayName>炉火纯青</DisplayName>
+						<Desc></Desc>
+						<ThunderValue>8000</ThunderValue>
+						<NeckCountdown>5000</NeckCountdown>
+						<AddModifier>Gong_Thunder1</AddModifier>
+					</Neck>
+					<Neck Location="0.6" Kind="Chance">
+						<DisplayName>豁然贯通</DisplayName>
+						<Desc>[color=#D06508]若无顶级巧匠技艺，此瓶颈可谓突破无望。[/color]</Desc>
+						<CostTime>400</CostTime>
+						<SuccessChange>Manual_m6_0_10</SuccessChange>
+						<FailedChangeAdd>Manual_m6_0_10</FailedChangeAdd>
+					</Neck>
+					<Neck Location="1" Kind="Work">
+						<DisplayName>技冠群雄</DisplayName>
+						<Desc></Desc>
+						<ExploreValue>2</ExploreValue>
+						<AddModifier>Gong_Thunder2</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+			
+			
+			<Stage Name="Stage4" Level="12">
+				<DisplayName>天人合一</DisplayName>
+				<Desc></Desc>
+				<Value>7680000</Value>
+				<Necks>
+					<Neck Location="0.5" Kind="Chance">
+						<DisplayName>出神入化</DisplayName>
+						<Desc>以具足之元神分化万千，各悟生死，以窥天道。[color=#D06508]\n若无顶级巧匠技艺，此瓶颈可谓突破无望。[/color]</Desc>
+						<CostTime>400</CostTime>
+						<SuccessChange>Manual_m6_0_10</SuccessChange>
+					</Neck>
+					<Neck Location="1" Kind="God">
+						<DisplayName>超凡入圣</DisplayName>
+						<Desc></Desc>
+						<ThunderValue>640000</ThunderValue>
+						<NeckCountdown>3000</NeckCountdown>
+						<AddModifier>Gong_Thunder3</AddModifier>
+					</Neck>
+				</Necks>
+			</Stage>
+		</Stages>
+	</Gong>
+</List></Gongs>

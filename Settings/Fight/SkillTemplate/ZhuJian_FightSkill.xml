@@ -1,0 +1,55 @@
+<FightSkills><List>
+
+	<Skill Name="DamageSkill_ZhuJian_Gong_1"><!--伤害技能基础模板 --> 
+		<DisplayName>十二路鱼肠刺剑</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>0.5</SingTime>
+		<CD>5</CD>
+		<LingCost>80</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>24</Value>
+		<TargetCamp>Enemy</TargetCamp>
+		
+		<Shape>Single</Shape>
+		<SelectType>Target</SelectType>
+		<HitEffect>32</HitEffect>
+	</Skill>
+	<Skill Name="DamageSkill_ZhuJian_Gong_2"><!--伤害技能基础模板 --> 
+		<DisplayName>千钧巨阙剑</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>10</SingTime>
+		<CD>30</CD>
+		<LingCost>1600</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>1000</Value>
+		<TargetCamp>Enemy</TargetCamp>
+		
+		<Shape>Single</Shape>
+		<SelectType>Target</SelectType>
+		<HitEffect>256</HitEffect>
+	</Skill>
+	<Skill Name="DamageSkill_ZhuJian_Gong_3"><!--伤害技能基础模板 --> 
+		<DisplayName>湛卢剑法</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>2</SingTime>
+		<CD>10</CD>
+		<LingCost>2000</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>500</Value>
+		<TargetCamp>Enemy</TargetCamp>
+		
+		<Shape>Single</Shape>
+		<SelectType>Target</SelectType>
+		<HitEffect>128</HitEffect>
+	</Skill>
+
+</List></FightSkills>

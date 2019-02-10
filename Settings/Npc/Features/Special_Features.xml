@@ -1,0 +1,35 @@
+﻿<FeatureDefs><List>
+
+	<Feature Name="LunHui_XiangShu" Type="Backstory">
+		<DisplayName>相枢化身</DisplayName>
+		<Desc>相枢化身拥有近乎无限的寿元，他们不知疲倦，无需进食。</Desc>
+		<!-- <HideInUI>1</HideInUI> -->
+		<ModifierDef>
+			<Properties>
+				<li Name="FatigueConsumeConstant" AddV="-0.75"/>
+				<li Name="NutritionConsumeConstant" AddP="-1"/>
+				<li Name="WaterConsumeConstant" AddP="-1"/>
+
+				<li Name="MoveSpeed" AddP="0.4"/>
+				<li Name="NpcFight_BaseHitChance" AddV="0.4"/>
+				<li Name="NpcFight_BaseDodgeChance" AddV="0.2"/>
+
+				<li Name="PainTolerance" AddP="1"/>
+				<li Name="MaxAge" AddV="8192"/>
+				<li Name="ComfyTMin" AddV="-32" AddP="0"/>
+				<li Name="ComfyTMax" AddV="32" AddP="0"/>
+				<li Name="ToleranceTMin" AddV="-64"/>
+				<li Name="ToleranceTMax" AddV="64"/>
+
+				<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="0.4"/>
+				<li Name="IntelligenceSkillEXPConstant" AddP="0.4"/>
+				<li Name="MindStateBaseValue" AddV="16"/>
+				<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+
+				<li Name="SpeedOfMindStateCoefficient" AddP="-1"/>
+				<li Name="EmotionAmplificationFactor" AddP="-1"/>
+			</Properties>
+		</ModifierDef>
+	</Feature>
+	
+</List></FeatureDefs>

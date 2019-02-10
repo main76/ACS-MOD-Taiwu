@@ -1,0 +1,22 @@
+﻿<Experiences><List>
+
+	<Experience Name="LunHui_Experiences_ZhanLu">
+		<DisplayName>湛卢轮回</DisplayName>
+		<Desc>此人是铸剑山庄祖师湛卢转世，自有记忆起，脑海中就有一门诡谲的功法。\n\n\n[size=10]解锁功法：[color=#D06508]太吾铸剑传承[/color]\n需求属性：巧匠极高。[/size]</Desc>
+		<Point>2</Point>
+		<Hide>1</Hide>
+		<Gongs>
+			<li>Gong_ZhuJian</li>
+		</Gongs>
+	</Experience>
+
+	<Experience Name="Experiences1G1_ZhuJian" Group="G1">
+		<DisplayName>太吾铸剑传承</DisplayName>
+		<Desc>你机缘巧合得到了太吾绘卷中《铸剑山庄》的传承，因此你这些年担惊受怕，不敢引起任何人的注意。\n\n\n[size=10]解锁功法：[color=#D06508]《太吾铸剑传承》[/color]\n此功法开局艰难，不建议初始选择。[/size]</Desc>
+		<Point>5</Point>
+		<Gongs>
+			<li>Gong_ZhuJian</li>
+		</Gongs>
+	</Experience>
+	
+</List></Experiences>

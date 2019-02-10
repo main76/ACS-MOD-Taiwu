@@ -1,0 +1,24 @@
+{
+  "name": "acs-mod-taiwu",
+  "version": "0.1.0",
+  "description": "TaiWu MOD for Amazing Cultivation Simulator",
+  "main": "None",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Master76/ACS-MOD-Taiwu.git"
+  },
+  "keywords": [
+    "acs",
+    "mod",
+    "taiwu"
+  ],
+  "author": "master76",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Master76/ACS-MOD-Taiwu/issues"
+  },
+  "homepage": "https://github.com/Master76/ACS-MOD-Taiwu#readme"
+}

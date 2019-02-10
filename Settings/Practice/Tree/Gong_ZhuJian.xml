@@ -1,0 +1,560 @@
+﻿<SkillTree><List>	
+
+	<Node Name="ZhuJian_Gong_a4" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Nei10</Esoteriac>
+		<DisplayName>燔石锤锻篇·正</DisplayName>
+		<Level>Qi</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+			<li>ZhuJian_Gong_a5</li>
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="ZhuJian_Gong_a5" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Nei11</Esoteriac>
+		<DisplayName>燔石锤锻篇·逆</DisplayName>
+		<Level>Qi</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+			<li>ZhuJian_Gong_a4</li>
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="ZhuJian_Gong_a7" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Sword1</Esoteriac>
+		<DisplayName>十二路鱼肠刺剑</DisplayName>
+		<Level>Qi</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,1,0,1,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+			<!-- <li></li> -->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_a9" Gong="Gong_ZhuJian">
+	<Esoteriac>ZhuJian_Gong_Esoteriac_Mu1</Esoteriac>
+		<DisplayName>木工考</DisplayName>
+		<Level>Qi</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_a10" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jin1</Esoteriac>
+		<DisplayName>鼎书</DisplayName>
+		<Level>Qi</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b0" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Qing1</Esoteriac>
+		<DisplayName>驭车篇</DisplayName>
+		<Level>Dan1</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b2" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jue1</Esoteriac>
+		<DisplayName>七手八脚功</DisplayName>
+		<Level>Dan1</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b4" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Nei20</Esoteriac>
+		<DisplayName>彰施乃服篇·正</DisplayName>
+		<Level>Dan1</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_b5</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b5" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Nei21</Esoteriac>
+		<DisplayName>彰施乃服篇·逆</DisplayName>
+		<Level>Dan1</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_b4</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b7" Gong="Gong_ZhuJian">
+		<Level>Dan1</Level>
+		<Index>7</Index>
+		<Line>1,0,1,0,1,0,2,0</Line>	
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b9" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Mu2</Esoteriac>
+		<DisplayName>舟车枢要</DisplayName>
+		<Level>Dan1</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="6"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_b10" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jin2</Esoteriac>
+		<DisplayName>古今刀剑录</DisplayName>
+		<Level>Dan1</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="6"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c0" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Qing2</Esoteriac>
+		<DisplayName>八方诸式</DisplayName>
+		<Level>Dan2</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_b0</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c2" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jue2</Esoteriac>
+		<DisplayName>天兵披甲术</DisplayName>
+		<Level>Dan2</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_b2</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c4" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Nei30</Esoteriac>
+		<DisplayName>千锤百炼篇·正</DisplayName>
+		<Level>Dan2</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li>Gong11_c2</li> -->
+		</PreUnit>
+		<MutexUnit>
+			<li>ZhuJian_Gong_c5</li>
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c5" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Nei31</Esoteriac>
+		<DisplayName>千锤百炼篇·逆</DisplayName>
+		<Level>Dan2</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li>Gong11_c2</li> -->
+		</PreUnit>
+		<MutexUnit>
+			<li>ZhuJian_Gong_c4</li>
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c7" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Sword2</Esoteriac>
+		<DisplayName>千钧巨阙剑</DisplayName>
+		<Level>Dan2</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>	
+		<PreUnit>
+			<li>ZhuJian_Gong_a7</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c9" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Mu3</Esoteriac>
+		<DisplayName>竹鹊志</DisplayName>
+		<Level>Dan2</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="12"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_c10" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jin3</Esoteriac>
+		<DisplayName>水经注</DisplayName>
+		<Level>Dan2</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="12"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="ZhuJian_Gong_d0" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Qing3</Esoteriac>
+		<DisplayName>乘龙术</DisplayName>
+		<Level>God</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_c0</li>
+		</PreUnit>
+		<MutexUnit>
+			<!-- <li></li> -->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_d2" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jue3</Esoteriac>
+		<DisplayName>玲珑九窍</DisplayName>
+		<Level>God</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_c2</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,6,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_d3" Gong="Gong_ZhuJian">
+		<Level>God</Level>
+		<Index>3</Index>
+		<Line>0,2,0,1,0,0,0,0</Line>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_d4" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jue4</Esoteriac>
+		<DisplayName>天铸玄铁册</DisplayName>
+		<Level>God</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_d2</li>
+		</PreUnit>
+		<MutexUnit>
+			<!-- <li></li> -->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="16"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_d7" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Sword3</Esoteriac>
+		<DisplayName>湛卢剑法</DisplayName>
+		<Level>God</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>ZhuJian_Gong_c7</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_d9" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Mu4</Esoteriac>
+		<DisplayName>大匠传</DisplayName>
+		<Level>God</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,6,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="15"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="ZhuJian_Gong_d10" Gong="Gong_ZhuJian">
+		<Esoteriac>ZhuJian_Gong_Esoteriac_Jin4</Esoteriac>
+		<DisplayName>考工记</DisplayName>
+		<Level>God</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<!-- <li></li> -->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,6,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="15"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="Gong11_e4" Gong="Gong_ZhuJian">
+		<Esoteriac>God2_Dan</Esoteriac>
+		<DisplayName>天道神丹</DisplayName>
+		<Level>God2</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Medicine" Level="20"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="Gong11_e8" Gong="Gong_ZhuJian">
+		<Esoteriac>God2_Fabao</Esoteriac>
+		<DisplayName>天道神器</DisplayName>
+		<Level>God2</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="20"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+</List></SkillTree> 

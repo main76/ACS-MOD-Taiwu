@@ -1,0 +1,24 @@
+﻿<Properties><List>
+
+	<!--巧匠概率-->
+	<Property Name="Manual_1_5_25">
+		<BaseValue>0.1</BaseValue>
+		<MinValue>0</MinValue> 
+		<MaxValue>1</MaxValue>
+		
+		<Skills>
+			<li Name="Manual" Weight="1" Base="0.5" Addion="0.1"/>
+		</Skills>
+	</Property>
+	
+	<Property Name="Manual_m6_0_10">
+		<BaseValue>-0.8</BaseValue>
+		<MinValue>0.1</MinValue> 
+		<MaxValue>1</MaxValue>
+		
+		<Skills>
+			<li Name="Manual" Weight="1" Base="0" Addion="0.05"/>
+		</Skills>
+	</Property>
+
+</List></Properties>

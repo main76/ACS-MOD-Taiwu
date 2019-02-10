@@ -1,0 +1,259 @@
+<ModifierDefs><List>
+
+	<!--内功-->
+	
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Nei10" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Nei10</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Fight" Level="3"/>
+		</Skills>
+		<Properties>
+			<li Name="NpcLingMaxValue" BAddP="0.2"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Nei11" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Nei11</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_SpellPowerAddP" AddP="20"/>
+			
+			<li Name="LingAbsorbSpeed" AddP="-1"/>
+			<li Name="MindStateBaseValue" AddV="-10"/>
+		</Properties>
+		<Damages>
+			<li Part="Heart" Damage="LingSpillsInjury" Value="0.3"/>
+		</Damages>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Nei20" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Nei20</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Fight" Level="3"/>
+		</Skills>
+		<Properties>
+			<li Name="NpcFight_BaseHitChance" AddV="0.2"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Nei21" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Nei21</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="-15"/>
+			<li Name="NpcFight_SpellCoolDownAddP" AddP="-0.2"/>
+			
+			<li Name="LingAbsorbSpeed" AddP="-3"/>
+			<li Name="MindStateBaseValue" AddV="-10"/>
+		</Properties>
+		<Damages>
+			<li Part="Heart" Damage="LingSpillsInjury" Value="0.6"/>
+		</Damages>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Nei30" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Nei30</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<BaseFive>0,0,0,2,0</BaseFive>
+		<Skills>
+			<li Name="Fight" Level="5"/>
+		</Skills>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Nei31" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Nei31</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="InspirationCoefficient" AddP="3"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="0.5"/>
+			<li Name="NpcFight_BaseHitChance" AddV="0.4"/>
+			<li Name="NpcFight_SpellCoolDownAddP" AddP="-0.4"/>
+
+			<li Name="LingAbsorbSpeed" AddP="-5"/>
+			<li Name="MindStateBaseValue" AddV="-10"/>
+		</Properties>
+		<Damages>
+			<li Part="Heart" Damage="LingSpillsInjury" Value="1"/>
+		</Damages>
+	</Modifier>
+
+    <!--轻功-->
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Qing1" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Qing1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MoveSpeed" AddP="0.5"/>
+			<li Name="NpcFight_BaseDodgeChance" AddV="0.2"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Qing2" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Qing2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MoveSpeed" AddP="1"/>
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="2"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Qing3" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Qing3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MoveSpeed" AddP="3"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.2"/>
+		</Properties>
+	</Modifier>
+
+    <!--绝技-->
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Jue1" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Jue1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoCoolDownAddP" AddV="-0.2"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Jue2" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Jue2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.3"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Jue3" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Jue3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddP="40"/>
+			<li Name="LingAbsorbSpeed" AddP="10"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Jue4" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Jue4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="20"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="20"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="20"/>
+						
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="1"/>
+		</Properties>
+	</Modifier>
+
+    <!--剑法-->
+	
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Sword1" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Sword1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="2"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Sword2" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Sword2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="40"/>
+		</Properties>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Sword3" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Sword3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="40"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="3"/>
+		</Properties>
+	</Modifier>
+
+    <!--技艺-->	
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Manual_1" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Manual_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Manual" Level="1"/>
+		</Skills>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="5"/>
+		</Properties>
+	</Modifier>
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Manual_2" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Manual_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Manual" Level="1"/>
+		</Skills>
+		<BaseFive>0,0.5,0,0,0</BaseFive>
+	</Modifier>
+
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Manual_3" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Manual_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Manual" Level="2"/>
+		</Skills>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="15"/>
+		</Properties>
+	</Modifier>
+	<Modifier Name="ZhuJian_Gong_Esoteriac_Manual_4" Type="Normal">
+		<DisplayName>ZhuJian_Gong_Esoteriac_Manual_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Manual" Level="2"/>
+		</Skills>
+		<BaseFive>0,1.5,0,0,0</BaseFive>
+	</Modifier>
+
+</List></ModifierDefs>
