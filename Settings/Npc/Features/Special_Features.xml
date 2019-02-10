@@ -7,8 +7,8 @@
 		<ModifierDef>
 			<Properties>
 				<li Name="FatigueConsumeConstant" AddV="-0.75"/>
-				<li Name="NutritionConsumeConstant" AddP="-1"/>
-				<li Name="WaterConsumeConstant" AddP="-1"/>
+				<li Name="NutritionConsumeConstant" AddP="-1.5"/>
+				<li Name="WaterConsumeConstant" AddP="-1.5"/>
 
 				<li Name="MoveSpeed" AddP="0.4"/>
 				<li Name="NpcFight_BaseHitChance" AddV="0.4"/>
@@ -23,11 +23,10 @@
 
 				<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="0.4"/>
 				<li Name="IntelligenceSkillEXPConstant" AddP="0.4"/>
-				<li Name="MindStateBaseValue" AddV="16"/>
 				<li Name="WorldMapFlySpeedAddP" AddV="1"/>
 
+				<li Name="MindStateBaseValue" AddV="16"/>
 				<li Name="SpeedOfMindStateCoefficient" AddP="-1"/>
-				<li Name="EmotionAmplificationFactor" AddP="-1"/>
 			</Properties>
 		</ModifierDef>
 	</Feature>
