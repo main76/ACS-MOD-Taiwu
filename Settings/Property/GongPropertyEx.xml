@@ -1,38 +1,38 @@
 ﻿<Properties><List>
 
 	<!--巧匠概率-->
-	<Property Name="Manual_1_5_25">
+	<Property Name="Manual_Primary">
 		<BaseValue>0.1</BaseValue>
 		<MinValue>0</MinValue> 
 		<MaxValue>1</MaxValue>
 		
 		<Skills>
-			<li Name="Manual" Weight="1" Base="0.5" Addion="0.1"/>
+			<li Name="Manual" Weight="1" Base="0.5" Addion="0.35"/>
 		</Skills>
 	</Property>
 
-	<Property Name="Manual_1_0_20">
+	<Property Name="Manual_Skilled">
 		<BaseValue>0.1</BaseValue>
 		<MinValue>0</MinValue> 
 		<MaxValue>1</MaxValue>
 		
 		<Skills>
-			<li Name="Manual" Weight="1" Base="0" Addion="0.1"/>
+			<li Name="Manual" Weight="1" Base="0" Addion="0.15"/>
 		</Skills>
 	</Property>
 	
-	<Property Name="Manual_0_-20_20">
-		<BaseValue>0</BaseValue>
+	<Property Name="Manual_Master">
+		<BaseValue>0.1</BaseValue>
 		<MinValue>0</MinValue> 
 		<MaxValue>1</MaxValue>
 		
 		<Skills>
-			<li Name="Manual" Weight="1" Base="-2" Addion="0.2"/>
+			<li Name="Manual" Weight="1" Base="-3" Addion="0.25"/>
 		</Skills>
 	</Property>
 
-	<Property Name="Manual_0_-50_20">
-		<BaseValue>0</BaseValue>
+	<Property Name="Manual_God">
+		<BaseValue>0.1</BaseValue>
 		<MinValue>0</MinValue> 
 		<MaxValue>1</MaxValue>
 		

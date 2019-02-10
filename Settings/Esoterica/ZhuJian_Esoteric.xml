@@ -258,8 +258,8 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Mu</Element>
 		<Type>None</Type>
-		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高心境[/color][/size]</EffectDesc>
-		<Modifier>ZhuJian_Gong_Esoteriac_Manual_1</Modifier>	
+		<EffectDesc>[size=10][color=#D06508]提高巧匠\n小幅提高心境[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_3</Modifier>	
 	</Esoteriac>
 	
 	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Mu4">
@@ -272,7 +272,7 @@
 		<Element>Mu</Element>
 		<Type>None</Type>
 		<EffectDesc>[size=10][color=#D06508]提高巧匠\n大幅提高心境[/color][/size]</EffectDesc>
-		<Modifier>ZhuJian_Gong_Esoteriac_Manual_1</Modifier>	
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_5</Modifier>	
 	</Esoteriac>
 	
 	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jin1">
@@ -310,8 +310,8 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Jin</Element>
 		<Type>None</Type>
-		<EffectDesc>[size=10][color=#D06508]小幅提高巧匠\n小幅提高根骨[/color][/size]</EffectDesc>
-		<Modifier>ZhuJian_Gong_Esoteriac_Manual_2</Modifier>	
+		<EffectDesc>[size=10][color=#D06508]提高巧匠\n小幅提高根骨[/color][/size]</EffectDesc>
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_4</Modifier>	
 	</Esoteriac>
 	
 	<Esoteriac Name="ZhuJian_Gong_Esoteriac_Jin4">
@@ -324,7 +324,7 @@
 		<Element>Jin</Element>
 		<Type>None</Type>
 		<EffectDesc>[size=10][color=#D06508]提高巧匠\n大幅提高根骨[/color][/size]</EffectDesc>
-		<Modifier>ZhuJian_Gong_Esoteriac_Manual_3</Modifier>	
+		<Modifier>ZhuJian_Gong_Esoteriac_Manual_6</Modifier>	
 	</Esoteriac>
 	
 </List></Esoteriacs>
