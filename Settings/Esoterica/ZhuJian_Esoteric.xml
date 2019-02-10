@@ -182,7 +182,7 @@
 		<GLevel>Dan1</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>[size=10][color=#D06508]提高法宝速度[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]提高法宝速度\n习得术法：十二路鱼肠刺剑[/color][/size]</EffectDesc>
 		<Modifier>ZhuJian_Gong_Esoteriac_Sword1</Modifier>
         <Skills>
 			<li>DamageSkill_ZhuJian_Gong_1</li>
@@ -198,7 +198,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Huo</Element>
 		<Type>None</Type>
-		<EffectDesc>[size=10][color=#D06508]巨幅提高法宝威力[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]巨幅提高法宝威力\n习得术法：千钧巨阙剑[/color][/size]</EffectDesc>
 		<Modifier>ZhuJian_Gong_Esoteriac_Sword2</Modifier>
         <Skills>
 			<li>DamageSkill_ZhuJian_Gong_2</li>
@@ -214,7 +214,7 @@
 		<GLevel>God</GLevel>
 		<Element>Huo</Element>
 		<Type>None</Type>
-		<EffectDesc>[size=10][color=#D06508]巨幅提高法宝威力\n巨幅提高法宝转向速度[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]巨幅提高法宝威力\n巨幅提高法宝转向速度\n习得术法：湛卢剑法[/color][/size]</EffectDesc>
 		<Modifier>ZhuJian_Gong_Esoteriac_Sword3</Modifier>
         <Skills>
 			<li>DamageSkill_ZhuJian_Gong_3</li>
