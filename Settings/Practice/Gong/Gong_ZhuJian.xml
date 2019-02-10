@@ -6,28 +6,27 @@
 		<FiveBaseNeed>5,7,-1,5,-1</FiveBaseNeed>
 		<SkillSetName></SkillSetName>
 		<ElementKind>Huo</ElementKind>
+
 		<Stages>
 			<Stage Name="Stage1" Level="3">
 				<DisplayName>初出茅庐</DisplayName>
 				<Desc></Desc>
 				<Value>1600</Value>
 				<Necks>
-					<Neck Location="0.2" Kind="Work">
+					<Neck Location="0.2" Kind="Chance">
 						<DisplayName>不堪一击</DisplayName>
-						<Desc>[color=#D06508]重回外道生活，磨练巧匠技艺。[/color]</Desc>
-					</Neck>
-					<Neck Location="0.6" Kind="Chance">
-						<DisplayName>初学乍练</DisplayName>
-						<Desc>[color=#D06508]此瓶颈巧匠越低，越难突破。[/color]</Desc>
+						<Desc>[color=#D06508]此瓶颈巧匠越低，越需反复尝试，方能逐步突破。[/color]</Desc>
 						<CostTime>300</CostTime>
 						<SuccessChange>Manual_1_5_25</SuccessChange>
 						<FailedChangeAdd>Manual_1_5_25</FailedChangeAdd>
 					</Neck>
-					<Neck Location="1" Kind="Chance">
+					<Neck Location="0.6" Kind="Work">
+						<DisplayName>初学乍练</DisplayName>
+						<Desc>[color=#D06508]重回外道生活，磨练巧匠技艺。[/color]</Desc>
+					</Neck>
+					<Neck Location="1" Kind="Work">
 						<DisplayName>初窥门径</DisplayName>
-						<Desc></Desc>
-						<CostTime>200</CostTime>
-						<SuccessChange>1</SuccessChange>
+						<Desc>[color=#D06508]重回外道生活，领悟匠心真意。[/color]</Desc>
 						<AddModifier>Gong_Qi</AddModifier>
 					</Neck>
 				</Necks>
@@ -40,17 +39,17 @@
 				<Necks>
 					<Neck Location="0.2" Kind="Chance">
 						<DisplayName>平淡无奇</DisplayName>
-						<Desc>[color=#D06508]此瓶颈巧匠越低，越难突破。[/color]</Desc>
+						<Desc>[color=#D06508]此瓶颈巧匠越低，越需反复尝试，方能逐步突破。[/color]</Desc>
 						<CostTime>300</CostTime>
 						<SuccessChange>Manual_1_5_25</SuccessChange>
 						<FailedChangeAdd>Manual_1_5_25</FailedChangeAdd>
 					</Neck>
 					<Neck Location="0.6" Kind="Chance">
 						<DisplayName>略有小成</DisplayName>
-						<Desc>[color=#D06508]此瓶颈巧匠越低，越难突破。[/color]</Desc>
+						<Desc>[color=#D06508]此瓶颈巧匠越低，越需反复尝试，方能逐步突破。[/color]</Desc>
 						<CostTime>300</CostTime>
-						<SuccessChange>Manual_1_5_25</SuccessChange>
-						<FailedChangeAdd>Manual_1_5_25</FailedChangeAdd>
+						<SuccessChange>Manual_1_0_20</SuccessChange>
+						<FailedChangeAdd>Manual_1_0_20</FailedChangeAdd>
 					</Neck>
 					<Neck Location="1" Kind="Gold">
 						<DisplayName>鹤立鸡群</DisplayName>
@@ -74,10 +73,10 @@
 					</Neck>
 					<Neck Location="0.6" Kind="Chance">
 						<DisplayName>豁然贯通</DisplayName>
-						<Desc>[color=#D06508]若无顶级巧匠技艺，此瓶颈可谓突破无望。[/color]</Desc>
+						<Desc>[color=#D06508]若无高超巧匠技艺，此瓶颈重复尝试也是突破无望。[/color]</Desc>
 						<CostTime>400</CostTime>
-						<SuccessChange>Manual_m6_0_10</SuccessChange>
-						<FailedChangeAdd>Manual_m6_0_10</FailedChangeAdd>
+						<SuccessChange>Manual_0_-20_20</SuccessChange>
+						<FailedChangeAdd>Manual_0_-20_20</FailedChangeAdd>
 					</Neck>
 					<Neck Location="1" Kind="Work">
 						<DisplayName>技冠群雄</DisplayName>
@@ -88,7 +87,6 @@
 				</Necks>
 			</Stage>
 			
-			
 			<Stage Name="Stage4" Level="12">
 				<DisplayName>天人合一</DisplayName>
 				<Desc></Desc>
@@ -96,9 +94,9 @@
 				<Necks>
 					<Neck Location="0.5" Kind="Chance">
 						<DisplayName>出神入化</DisplayName>
-						<Desc>以具足之元神分化万千，各悟生死，以窥天道。[color=#D06508]\n若无顶级巧匠技艺，此瓶颈可谓突破无望。[/color]</Desc>
+						<Desc>以具足之元神分化万千，各悟生死，以窥天道。[color=#D06508]\n此瓶颈无经验加成，若无顶级巧匠技艺，可谓突破无望。[/color]</Desc>
 						<CostTime>400</CostTime>
-						<SuccessChange>Manual_m6_0_10</SuccessChange>
+						<SuccessChange>Manual_0_-50_20</SuccessChange>
 					</Neck>
 					<Neck Location="1" Kind="God">
 						<DisplayName>超凡入圣</DisplayName>
